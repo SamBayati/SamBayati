@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Bayat</h1>
+<h1 align="center">Hi 👋, I'm Sam Bayati</h1>
 <h3 align="center">A passionate frontend developer from Scotland, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambayati&label=Profile%20views&color=0e75b6&style=flat" alt="sambayati" /> </p>
