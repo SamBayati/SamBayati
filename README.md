@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/https://samw3b.pages.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://samw3b.pages.dev/" height="30" width="40" /></a>
 <a href="https://twitter.com/snowhamm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snowhamm1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sam-bayati-31a073200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sam-bayati-31a073200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sam-bayati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sam-bayati-31a073200/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hamm8snow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hamm8snow" height="30" width="40" /></a>
 <a href="/https://samw3b.pages.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://samw3b.pages.dev/" height="30" width="40" /></a>
 </p>
