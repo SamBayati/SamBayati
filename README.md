@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sam+Bayati+%F0%9F%98%8A" alt="Typing SVG" /></a>
-
+<h1 align="center">Hi 👋, I'm Sam Bayati 😊</h1>
 ###
 
 <div align="center">
