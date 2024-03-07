@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/snowhamm1" target="blank"><img src="https://img.shields.io/twitter/follow/snowhamm1?logo=twitter&style=for-the-badge" alt="snowhamm1" /></a> </p>
 
-- 🌱 I’m currently learning **Bash, Kotlin, JavaScript**
+- 🌱 I’m currently learning **TypeScript, Kotlin, Bash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
