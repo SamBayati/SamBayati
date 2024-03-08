@@ -7,7 +7,7 @@
 <p><center></center>My WEBSITE: https://samw3b.pages.dev/<center></p>
 
 ###
-<h3 align="center">A passionate frontend developer from Stirling, UK</h3>
+<h3 align="center">A passionate Full-Stack developer from Stirling, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambayati&label=Profile%20views&color=0e75b6&style=flat" alt="sambayati" /> </p>
 
