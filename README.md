@@ -76,7 +76,6 @@
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/SamBayati/SamBayati/output/snake.svg" alt="Snake animation" />
 
 - 🌱 I’m currently learning **TypeScript, Kotlin, Bash**
