@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Bayati 😊</h1>
-###   <div align="center">
+###   
+<div align="center">
   <img src="https://profile-counter.glitch.me/SamBayati/count.svg?"  />
 </div>
 
