@@ -12,7 +12,7 @@
 <p><center></center>My WEBSITE: https://samw3b.pages.dev/<center></p>
 
 ###
-<h3 align="center">Full-Stack developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/snowhamm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snowhamm1" height="30" width="40" /></a>
