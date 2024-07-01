@@ -76,7 +76,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamBayati&radius=16&theme=green&area=true&order=5" height="257" alt="activity-graph graph"  />
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/SamBayati/SamBayati/output/snake.svg" alt="Snake animation" />
 
 - 🌱 I’m currently learning **TypeScript, Kotlin, Bash**
