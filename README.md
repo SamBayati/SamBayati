@@ -2,7 +2,8 @@
 ###   
 <div align="center"> <p>Profile Views : </p>
 
-  <img src="https://profile-counter.glitch.me/SamBayati/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/SamBayati/count.svg?"/>
+
 </div>
 
 
