@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/f8e1558407ae6cb5e213cfccb33c214c7919a307c8d8f5b28d909b7794d10efa/68747470733a2f2f692e696d6775722e636f6d2f674b467076656a2e676966"  />
+  <img height="200" src="https://media1.tenor.com/m/tWD3GjJcoHgAAAAd/spongebob-computer.gif/>
 </div>
 <p><center></center>My WEBSITE: https://samweb.tech/<center></p>
 
