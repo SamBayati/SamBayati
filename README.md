@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Sam and I'm a sponge from idk</p>
+<p align="left">My name is Sam and I'm a computer science student</p>
 
 ###
 
