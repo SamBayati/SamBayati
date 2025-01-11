@@ -41,9 +41,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SamBayati/SamBayati/output/snake.svg" alt="Snake animation" />
-
-###
