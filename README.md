@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey</h1>
 
 ###
 
@@ -7,8 +7,6 @@
 </div>
 
 ###
-
-<p align="left">My name is Sam and I'm a computer science student</p>
 
 ###
 
